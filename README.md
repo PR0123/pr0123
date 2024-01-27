@@ -1,5 +1,4 @@
-### Hi there 👋
-Repositories under this account are for education and prototyping.
+Repositories under this account are mainly for education and prototyping.
 <!--
 **PR0123/pr0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
